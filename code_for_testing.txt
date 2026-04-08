@@ -1,0 +1,15 @@
+  Id CommandLine                                                                                    
+  -- -----------                                                                                    
+   1 try { . "c:\Users\Deepthi\AppData\Local\Programs\Microsoft VS Code\07ff9d6178\resources\app\...
+   2 git status                                                                                     
+   3 git add testing.py                                                                             
+   4 git status                                                                                     
+   5 rm --cached testing.py                                                                         
+   6 git rm --cached testing.py                                                                     
+   7 git status                                                                                     
+   8 git add testing.py                                                                             
+   9 status                                                                                         
+  10 git status                                                                                     
+  11 git commit -m                                                                                  
+  12 git commit -m "file added"                                                                     
+  13 git status         
