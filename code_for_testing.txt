@@ -1,6 +1,6 @@
   Id CommandLine                                                                                    
   -- -----------                                                                                    
-   1 try { . "c:\Users\Deepthi\AppData\Local\Programs\Microsoft VS Code\07ff9d6178\resources\app\...
+   1
    2 git status                                                                                     
    3 git add testing.py                                                                             
    4 git status                                                                                     
